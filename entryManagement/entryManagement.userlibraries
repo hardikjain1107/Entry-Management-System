@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: junit:junit:4.11">
+    <archive path="/Users/arpitjain/.m2/repository/junit/junit/4.11/junit-4.11.jar" />
+  </library>
+  <library name="Maven: org.hamcrest:hamcrest-core:1.3">
+    <archive path="/Users/arpitjain/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
+  </library>
+  <library name="Maven: javax:javaee-web-api:6.0">
+    <archive path="/Users/arpitjain/.m2/repository/javax/javaee-web-api/6.0/javaee-web-api-6.0.jar" />
+  </library>
+  <library name="Maven: com.google.code.gson:gson:2.8.5">
+    <archive path="/Users/arpitjain/.m2/repository/com/google/code/gson/gson/2.8.5/gson-2.8.5.jar" />
+  </library>
+  <library name="Maven: org.mongodb:mongo-java-driver:3.4.3">
+    <archive path="/Users/arpitjain/.m2/repository/org/mongodb/mongo-java-driver/3.4.3/mongo-java-driver-3.4.3.jar" />
+  </library>
+  <library name="Maven: javax.mail:mail:1.4">
+    <archive path="/Users/arpitjain/.m2/repository/javax/mail/mail/1.4/mail-1.4.jar" />
+  </library>
+  <library name="Maven: javax.activation:activation:1.1">
+    <archive path="/Users/arpitjain/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar" />
+  </library>
+  <library name="java" />
+</eclipse-userlibraries>
+
